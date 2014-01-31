@@ -26,7 +26,7 @@ The study group meets weekly to:
 
 * Review code written during the previous week
 * Share short talks on a valuable thing learned during the week
-* Prepare for the next weeks projects by exploring them as a group.
+* Prepare for the next weeks project(s)
 
 ## Participation
 Participation is limited to ~12 people who commit to 4 weeks in a row. This

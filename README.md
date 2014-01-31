@@ -1,8 +1,9 @@
 # The Long Road
-Being a professional programmer takes time
-The road is long and winding.
-To walk alone would be a crime
-Together there is wisdom for the finding.
+
+> Being a professional programmer takes time    
+> The road is long and winding.    
+> To walk alone would be a crime    
+> Together there is knowledge for the finding.    
 
 ## Philosophy
 There are two sides to effectiveness as a developer:
@@ -31,7 +32,8 @@ The study group meets weekly to:
 Participation is limited to ~12 people who commit to 4 weeks in a row. This
 allows people to rotate in and out based on their personal commitments.
 
-If you would like to attend, fill out our current [application form]()
+If you would like to attend, fill out our current [application
+form](https://docs.google.com/forms/d/1N8gcc7c5WC6vKRe3PUV_G9hskGXX1VKBOtqhdQ771KA/viewform)
 
 ## Code of Conduct
 

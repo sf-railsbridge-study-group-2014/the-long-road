@@ -1,0 +1,10 @@
+#!/bin/bash
+
+if [ $1 ];
+then
+  DEPLOY_URL=$1
+else
+  DEPLOY_URL=thelongroad.zeespencer.com
+fi
+bin/build
+s3cmd --delete-removed sync _site/* s3://$DEPLOY_URL
